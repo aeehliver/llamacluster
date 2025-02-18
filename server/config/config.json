@@ -1,0 +1,12 @@
+{
+    "port": 3001,
+    "maxClients": 10,
+    "heartbeatInterval": 30000,
+    "security": {
+        "maxLoginAttempts": 5,
+        "tokenExpirationTime": 3600
+    },
+    "cluster": {
+        "minNodes": 1
+    }
+}

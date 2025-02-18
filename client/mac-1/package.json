@@ -1,0 +1,12 @@
+{
+    "name": "llama-client-mac",
+    "version": "1.0.0",
+    "description": "Cliente LLaMA para macOS usando MLX",
+    "main": "index.js",
+    "dependencies": {
+        "ws": "^8.0.0"
+    },
+    "optionalDependencies": {
+        "@mlx-js/mlx": "^0.0.1"
+    }
+}
